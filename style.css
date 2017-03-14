@@ -1,0 +1,66 @@
+.logo{
+	float: left;
+	height: 200px;
+	width: 30%;
+	box-sizing: border-box;
+}
+.logo img{
+	width: 100%;
+	height: 199px;
+}
+.menubar{
+	float: right;
+	height: 200px;
+	box-sizing: border-box;
+	width: 70%;
+}
+.names{
+	height: 99px;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: center;
+}
+.slider{
+	float: left;
+	height: 300px;
+	width:60%;
+	box-sizing: border-box;
+}
+.latest{
+	float: right;
+	height: 300px;
+	width: 40%;
+	box-sizing: border-box;
+}
+.lnews{
+	height: 68px;
+	box-sizing: border-box;
+	width: 100%;
+}
+.news{
+	display: inline-block;
+	height: 500px;
+	box-sizing: border-box;
+	width: 33.33%;
+}
+.footer{
+	height: 150px;
+	box-sizing: border-box;
+}
+.names ul li{
+	display: inline-block;
+	border: 4px solid brown;
+	padding: 4px;
+	margin: 30;
+}
+.slider img{
+	width: 100%;
+	height: 299.5px;
+}
+.news img{
+	width:90%;
+	height: 180px;
+}
+.footer{
+	text-align: center;
+}
